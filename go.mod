@@ -29,7 +29,6 @@ require (
 	github.com/docker/docker-credential-helpers v0.6.3 // indirect
 	github.com/docker/go-connections v0.4.0
 	github.com/docker/go-metrics v0.0.0-20181218153428-b84716841b82 // indirect
-	github.com/docker/go-units v0.4.0 // indirect
 	github.com/docker/libcompose v0.0.0-20190805081528-eac9fe1b8b03 // indirect
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7 // indirect
 	github.com/donovanhide/eventsource v0.0.0-20170630084216-b8f31a59085e // indirect
@@ -43,7 +42,7 @@ require (
 	github.com/go-acme/lego/v3 v3.2.0
 	github.com/go-check/check v0.0.0-00010101000000-000000000000
 	github.com/go-kit/kit v0.9.0
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.5.0
 	github.com/google/go-github/v28 v28.1.1
 	github.com/googleapis/gnostic v0.1.0 // indirect
 	github.com/gorilla/mux v1.7.3
@@ -64,7 +63,7 @@ require (
 	github.com/morikuni/aec v0.0.0-20170113033406-39771216ff4c // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
 	github.com/opencontainers/image-spec v1.0.1 // indirect
-	github.com/opencontainers/runc v1.0.0-rc8 // indirect
+	github.com/opencontainers/runc v1.1.2 // indirect
 	github.com/opentracing/opentracing-go v1.1.0
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.4.5
 	github.com/openzipkin/zipkin-go v0.2.2
@@ -74,7 +73,7 @@ require (
 	github.com/prometheus/client_golang v1.1.0
 	github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4
 	github.com/rancher/go-rancher-metadata v0.0.0-00010101000000-000000000000
-	github.com/sirupsen/logrus v1.4.2
+	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.4.0
 	github.com/stvp/go-udp-testing v0.0.0-20191102171040-06b61409b154
 	github.com/tinylib/msgp v1.0.2 // indirect
@@ -89,8 +88,7 @@ require (
 	go.elastic.co/apm v1.6.0
 	go.elastic.co/apm/module/apmot v1.6.0
 	golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413 // indirect
-	golang.org/x/net v0.0.0-20191204025024-5ee1b9f4859a
-	golang.org/x/sys v0.0.0-20191204072324-ce4227a45e2e // indirect
+	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
 	google.golang.org/grpc v1.22.1
 	gopkg.in/DataDog/dd-trace-go.v1 v1.19.0
