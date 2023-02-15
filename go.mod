@@ -43,7 +43,7 @@ require (
 	github.com/go-acme/lego/v3 v3.2.0
 	github.com/go-check/check v0.0.0-00010101000000-000000000000
 	github.com/go-kit/kit v0.9.0
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.4.3
 	github.com/google/go-github/v28 v28.1.1
 	github.com/googleapis/gnostic v0.1.0 // indirect
 	github.com/gorilla/mux v1.7.3
@@ -71,10 +71,10 @@ require (
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/philhofer/fwd v1.0.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0
-	github.com/prometheus/client_golang v1.1.0
-	github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4
+	github.com/prometheus/client_golang v1.11.1
+	github.com/prometheus/client_model v0.2.0
 	github.com/rancher/go-rancher-metadata v0.0.0-00010101000000-000000000000
-	github.com/sirupsen/logrus v1.4.2
+	github.com/sirupsen/logrus v1.6.0
 	github.com/stretchr/testify v1.4.0
 	github.com/stvp/go-udp-testing v0.0.0-20191102171040-06b61409b154
 	github.com/tinylib/msgp v1.0.2 // indirect
@@ -88,15 +88,13 @@ require (
 	github.com/vulcand/predicate v1.1.0
 	go.elastic.co/apm v1.6.0
 	go.elastic.co/apm/module/apmot v1.6.0
-	golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413 // indirect
-	golang.org/x/net v0.0.0-20191204025024-5ee1b9f4859a
-	golang.org/x/sys v0.0.0-20191204072324-ce4227a45e2e // indirect
+	golang.org/x/net v0.0.0-20200625001655-4c5254603344
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
 	google.golang.org/grpc v1.22.1
 	gopkg.in/DataDog/dd-trace-go.v1 v1.19.0
 	gopkg.in/fsnotify.v1 v1.4.7
 	gopkg.in/jcmturner/goidentity.v3 v3.0.0 // indirect
-	gopkg.in/yaml.v2 v2.2.7
+	gopkg.in/yaml.v2 v2.3.0
 	gotest.tools v2.2.0+incompatible // indirect
 	k8s.io/api v0.0.0-20190718183219-b59d8169aab5
 	k8s.io/apimachinery v0.0.0-20190612205821-1799e75a0719
